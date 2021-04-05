@@ -8,7 +8,7 @@ Quizes are common feature of our student-facing apps. Can you build a simple qui
 
 ## The Challenge
 
-Using the following wireframes, build a quiz interface. The questions are all in [questions.json](https://raw.githubusercontent.com/outlier-org/challenge-quiz/master/src/questions.json).
+Using the following wireframes, build a quiz interface. Using your comprehension about how the application functions, construct all applicable tests. The questions are all in [questions.json](https://raw.githubusercontent.com/outlier-org/challenge-quiz/master/src/questions.json).
 
 ![Question](https://raw.githubusercontent.com/outlier-org/challenge-quiz/master/docs/wire-question.png)
 

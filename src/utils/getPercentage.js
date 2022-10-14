@@ -1,0 +1,1 @@
+export const getPercentage = (y, z) => ((y/z) * 100).toFixed(0)

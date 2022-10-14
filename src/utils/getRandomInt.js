@@ -1,0 +1,1 @@
+export const getRandomInt = x => Math.floor(Math.random() * Math.floor(x))
